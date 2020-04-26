@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyStaticLib",
+        "repositoryURL": "https://github.com/anuragajwani/distributing_swift_lib_spm.git",
+        "state": {
+          "branch": null,
+          "revision": "00f8b5e7aea1082d4fa6450a98de576e47416f0c",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
